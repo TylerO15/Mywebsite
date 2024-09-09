@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tylero15.github.io/Mywebsite/sitemap.xml

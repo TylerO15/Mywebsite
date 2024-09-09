@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tylers list of fun",
+    "description": "",
+    "home_page_url": "https://tylero15.github.io/Mywebsite",
+    "feed_url": "https://tylero15.github.io/Mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tyler Olivier"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tylero15.github.io/Mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tylero15.github.io/Mywebsite/</loc>
+</url>
+<url>
+<loc>https://tylero15.github.io/Mywebsite/skateboard-tips-and-tricks.html</loc>
+<lastmod>2024-09-06T10:23:05+02:00</lastmod>
+</url>
+<url>
+<loc>https://tylero15.github.io/Mywebsite/spotify-bangers.html</loc>
+<lastmod>2024-09-09T11:23:40+02:00</lastmod>
+</url>
+<url>
+<loc>https://tylero15.github.io/Mywebsite/tylers-list-of-fun.html</loc>
+<lastmod>2024-09-06T10:02:13+02:00</lastmod>
+</url>
+</urlset>
